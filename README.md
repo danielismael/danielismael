@@ -1,10 +1,6 @@
 <h3 align="left">Olá👋🏼, sou Daniel Ismael e sou desenvolvedor Fullstack.</h3>
 <hr>
 <p align="left">Estou em contato com tecnologia desde pequeno e iniciei meus estudos com C# e Mysql e acabei assim conquistando a minha primeira oportunidade de estagiar como desenvolvedor web front-end.<br><br>Após muito estudo, hoje sou desenvolvedor web fullstack. Já tive sob minha responsabilidade vários projetos em PHP, Wordpress e Next.js. Também tive sob minha responsabilidades desenvolvedores juniores e estagiários, trabalhei de perto com o time de UX/UI.<br><br>Já tive experiencia em ser entrevistador técnico e gerente de projetos.</p>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&username=undefined" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&username=undefined" height="150" alt="languages graph"  />
-</div>
 
 <h3 align="left">Front-end</h3>
 <hr>
