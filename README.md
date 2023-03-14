@@ -60,11 +60,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" width="52" alt="microsoftsqlserver logo"  />
 </div>
 
-###
-
 <p align="left">Design</p>
-
-###
 
 <br clear="both">
 
@@ -76,11 +72,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
 </div>
 
-###
-
 <p align="left">Outros</p>
-
-###
 
 <br clear="both">
 
@@ -106,9 +98,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain-wordmark.svg" height="40" width="52" alt="webpack logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" height="40" width="52" alt="yarn logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/DansFront/DansFront/blob/output/snake.svg" alt="Snake animation" />
-
-###
