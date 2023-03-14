@@ -3,7 +3,7 @@
 <p align="left">Estou em contato com tecnologia desde pequeno e iniciei meus estudos com C# e Mysql e acabei assim conquistando a minha primeira oportunidade de estagiar como desenvolvedor web front-end.<br><br>Após muito estudo, hoje sou desenvolvedor web fullstack. Já tive sob minha responsabilidade vários projetos em PHP, Wordpress, Woocommerce, React.js e Next.js. Também tive sob minha responsabilidades desenvolvedores juniores e estagiários, trabalhei de perto com o time de UX/UI.<br><br>Já tive experiencia em ser entrevistador técnico e gerente de projetos.</p>
 
 <h3 align="left">Front-end</h3>
-<hr>
+<hr style="margin: 0 0 1rem">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="52" alt="javascript logo"  />
@@ -17,8 +17,7 @@
 </div>
 
 <h3 align="left">Back-end</h3>
-<hr>
-<br clear="both">
+<hr style="margin: 0 0 1rem">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="40" width="52" alt="php logo"  />
@@ -30,8 +29,7 @@
 </div>
 
 <h3 align="left">Database</h3>
-<hr>
-<br clear="both">
+<hr style="margin: 0 0 1rem">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" width="52" alt="mysql logo"  />
@@ -41,8 +39,7 @@
 </div>
 
 <h3 align="left">Design</h3>
-<hr>
-<br clear="both">
+<hr style="margin: 0 0 1rem">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="52" alt="canva logo"  />
@@ -53,8 +50,7 @@
 </div>
 
 <h3 align="left">Outros</h3>
-<hr>
-<br clear="both">
+<hr style="margin: 0 0 1rem">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-plain-wordmark.svg" height="40" width="52" alt="apache logo"  />
