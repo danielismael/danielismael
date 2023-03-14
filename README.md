@@ -1,21 +1,13 @@
 <h3 align="left">Olá👋🏼, sou Daniel Ismael e sou desenvolvedor Fullstack.</h3>
-
-###
-
+<hr>
 <p align="left">Estou em contato com tecnologia desde pequeno e iniciei meus estudos com C# e Mysql e acabei assim conquistando a minha primeira oportunidade de estagiar como desenvolvedor web front-end.<br><br>Após muito estudo, hoje sou desenvolvedor web fullstack. Já tive sob minha responsabilidade vários projetos em PHP, Wordpress e Next.js. Também tive sob minha responsabilidades desenvolvedores juniores e estagiários, trabalhei de perto com o time de UX/UI.<br><br>Já tive experiencia em ser entrevistador técnico e gerente de projetos.</p>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&username=undefined" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&username=undefined" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<p align="left">Front-end</p>
-
-###
+<h3 align="left">Front-end</h3>
+<hr>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="52" alt="javascript logo"  />
@@ -28,12 +20,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="40" width="52" alt="bootstrap logo"  />
 </div>
 
-###
-
-<p align="left">Back-end</p>
-
-###
-
+<h3 align="left">Back-end</h3>
+<hr>
 <br clear="both">
 
 <div align="left">
@@ -45,12 +33,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" width="52" alt="firebase logo"  />
 </div>
 
-###
-
-<p align="left">Database</p>
-
-###
-
+<h3 align="left">Database</h3>
+<hr>
 <br clear="both">
 
 <div align="left">
@@ -60,12 +44,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" width="52" alt="microsoftsqlserver logo"  />
 </div>
 
-###
-
-<p align="left">Design</p>
-
-###
-
+<h3 align="left">Design</h3>
+<hr>
 <br clear="both">
 
 <div align="left">
@@ -76,12 +56,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
 </div>
 
-###
-
-<p align="left">Outros</p>
-
-###
-
+<h3 align="left">Outros</h3>
+<hr>
 <br clear="both">
 
 <div align="left">
@@ -106,9 +82,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain-wordmark.svg" height="40" width="52" alt="webpack logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" height="40" width="52" alt="yarn logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/undefined/undefined/blob/output/snake.svg" alt="Snake animation" />
-
-###
