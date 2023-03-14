@@ -1,6 +1,6 @@
 <h3 align="left">Olá👋🏼, sou Daniel Ismael e sou desenvolvedor Fullstack.</h3>
 <hr>
-<p align="left">Estou em contato com tecnologia desde pequeno e iniciei meus estudos com C# e Mysql e acabei assim conquistando a minha primeira oportunidade de estagiar como desenvolvedor web front-end.<br><br>Após muito estudo, hoje sou desenvolvedor web fullstack. Já tive sob minha responsabilidade vários projetos em PHP, Wordpress e Next.js. Também tive sob minha responsabilidades desenvolvedores juniores e estagiários, trabalhei de perto com o time de UX/UI.<br><br>Já tive experiencia em ser entrevistador técnico e gerente de projetos.</p>
+<p align="left">Estou em contato com tecnologia desde pequeno e iniciei meus estudos com C# e Mysql e acabei assim conquistando a minha primeira oportunidade de estagiar como desenvolvedor web front-end.<br><br>Após muito estudo, hoje sou desenvolvedor web fullstack. Já tive sob minha responsabilidade vários projetos em PHP, Wordpress, Woocommerce, React.js e Next.js. Também tive sob minha responsabilidades desenvolvedores juniores e estagiários, trabalhei de perto com o time de UX/UI.<br><br>Já tive experiencia em ser entrevistador técnico e gerente de projetos.</p>
 
 <h3 align="left">Front-end</h3>
 <hr>
