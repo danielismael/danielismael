@@ -2,8 +2,6 @@
 
 <p align="left">Desenvolvedor Fullstack, com experiência em desenvolvimento web, gestão de projetos, avaliação técnica e supervisão de estagiários e desenvolvedores juniores. Me reconheço como entusiasta da tecnologia, estou em contato com desenvolvimento desde meus 12 anos, mas profissionalmente desde 2020.</p>
 
-<p align="left">Possuo foco em desenvolvimento com PHP Vanilla, Wordpress, Woocommerce, Javascript, jQuery, Next.js, SQL Server e MySQL dentre outras tecnologias que você poderá encontrar no meu Github. </p>
-
 <p align="left">Me considero ágil e consistente, tenho facilidade com aprendizado e me adaptar a qualquer mudança, pronto para superar qualquer desafio! </p>
 
 <p align="left">Se eu pudesse me definir em três palavras, certamente seriam: resiliente, esforçado e integro.</p>
