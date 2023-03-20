@@ -1,4 +1,4 @@
-<h3 align="left">Olá👋🏼, sou Daniel Ismael e sou desenvolvedor Fullstack.</h3>
+<h4 align="left">Olá👋🏼, sou Daniel Ismael.</h4>
 <hr>
 <p align="left">Desenvolvedor Fullstack, com experiência em desenvolvimento web, gestão de projetos, avaliação técnica e supervisão de estagiários e desenvolvedores juniores. Me reconheço como entusiasta da tecnologia, estou em contato com desenvolvimento desde meus 12 anos, mas profissionalmente desde 2020.</p>
 
@@ -28,7 +28,6 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="40" width="52" alt="php logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="40" width="52" alt="laravel logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" height="40" width="52" alt="wordpress logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-plain-wordmark.svg" height="40" width="52" alt="woocommerce logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" width="52" alt="firebase logo"  />
