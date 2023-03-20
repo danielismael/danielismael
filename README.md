@@ -1,5 +1,5 @@
-<h4 align="left">Olá👋🏼, sou Daniel Ismael.</h4>
-<hr>
+<h3 align="left">Olá👋🏼, sou Daniel Ismael.</h3>
+
 <p align="left">Desenvolvedor Fullstack, com experiência em desenvolvimento web, gestão de projetos, avaliação técnica e supervisão de estagiários e desenvolvedores juniores. Me reconheço como entusiasta da tecnologia, estou em contato com desenvolvimento desde meus 12 anos, mas profissionalmente desde 2020.</p>
 
 <p align="left">Possuo foco em desenvolvimento com PHP Vanilla, Wordpress, Woocommerce, Javascript, jQuery, Next.js, SQL Server e MySQL dentre outras tecnologias que você poderá encontrar no meu Github. </p>
